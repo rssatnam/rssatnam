@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Satnam Singh
+# 👋 Hi, I’m Satnam Singh
 - 👀 I’m interested in Full-Stack Development MERN/PERN stack.
 - 🌱 I’m currently working on improving my skills on the stack.
 - 💞️ I’m looking to collaborate on contract/full-time project.
