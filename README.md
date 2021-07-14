@@ -9,7 +9,7 @@
 - React
 - Redux
 - Firebase (Firestore/Auth)
-- Material-UI
+- Material-UI / Styled Components
 - CSS3
 - JavaScript / ES6+
 - Git
