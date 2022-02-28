@@ -7,7 +7,7 @@
 
 ## Skills
 - React
-- Redux
+- Redux/Recoil
 - Firebase (Firestore/Auth)
 - Material-UI / Styled Components
 - CSS3
